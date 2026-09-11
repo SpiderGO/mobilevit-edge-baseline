@@ -152,12 +152,6 @@ Below is the list of publications from Apple that uses CVNets:
    * [RangeAugment: Efficient Online Augmentation with Range Learning](https://arxiv.org/abs/2212.10553)
    * [Bytes Are All You Need: Transformers Operating Directly on File Bytes](https://arxiv.org/abs/2306.00238)
 
-## Contributing to CVNets
-
-We welcome PRs from the community! You can find information about contributing to CVNets in our [contributing](CONTRIBUTING.md) document. 
-
-Please remember to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-
 ## License
 
 For license details, see [LICENSE](LICENSE). 
