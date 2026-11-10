@@ -29,5 +29,6 @@ cvnets.egg-info
 cvnets.egg-info/*
 
 venv/
+.venv/
 
 trash
